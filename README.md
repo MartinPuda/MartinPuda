@@ -1,4 +1,7 @@
-## Hi there 👋
+## About me
+
+- Clojure and Common Lisp enthusiast
+- Stack Overflow contributor: [https://stackoverflow.com/users/13590263/](https://stackoverflow.com/users/13590263/)
 
 <!--
 **MartinPuda/MartinPuda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
