@@ -5,5 +5,6 @@
 
 ### See also
 
+- [My contributions to Clojurians Slack](https://github.com/MartinPuda/clojurians-slack)
 - [My contributions to Lisp-hug](https://github.com/MartinPuda/lisp-hug)
 - [My Clojureverse posts](https://clojureverse.org/u/martinpuda/activity/replies)
